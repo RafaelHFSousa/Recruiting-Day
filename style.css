@@ -1,0 +1,28 @@
+
+
+.formulario{
+    display: flex;
+    width: 400px;
+    padding: 20px;
+    justify-content: center;
+    margin: 300px auto;
+    flex-direction: column;
+    align-items: center;
+    border: black solid 1px;
+    gap: 5px;
+
+}
+
+.formulario2{
+    display: flex;
+    width: 400px;
+    padding: 20px;
+    justify-content: center;
+    margin: 300px auto;
+    flex-direction: column;
+    align-items: center;
+    border: black solid 1px;
+    gap: 5px;
+    
+
+}
