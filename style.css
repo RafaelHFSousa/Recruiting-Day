@@ -1,4 +1,7 @@
-
+a{
+    text-decoration: none;
+    color: black;
+}
 
 .formulario{
     display: flex;
@@ -24,5 +27,6 @@
     border: black solid 1px;
     gap: 5px;
     
+
 
 }
